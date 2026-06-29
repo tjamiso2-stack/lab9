@@ -1,0 +1,9 @@
+# local environment and secrets (do not track this)
+.env
+
+# python junk
+__pycache__/
+*.pyc
+
+# os junk
+.DS_Store
