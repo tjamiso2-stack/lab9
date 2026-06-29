@@ -1,6 +1,6 @@
 # Website Project
 
-A basic website project repository for INST326 Lab 9. This repo is where I practice git branching, ignoring local files, and merging work through pull requests.
+A basic website project repository for INST326 Lab 9. This repo is where I practice git branching, ignoring local files, and merging work through pull requests. my local git was connected to my other email so theres two contributors
 
 ## Overview
 
